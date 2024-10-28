@@ -31,5 +31,5 @@
 <br>
 <br>
 <div dir="auto">
-  <p align="left" dir="auto">I'm a Technologist in Systems Analysis and Development and I'm postgraduate in Java Development and Architcture in <a href="https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/">FIAP</a>, working on my portfolio and doing some excercises in Hackerrank.</p>
+  <p align="left" dir="auto">I'm a Technologist in Systems Analysis and Development and postgraduate in Java Development and Architcture in <a href="https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/">FIAP</a>, working on my portfolio and doing some excercises in Hackerrank.</p>
 </div>
