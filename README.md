@@ -8,7 +8,7 @@
 <br>
 
 # Hi!
-<p>I'm Vitor from Espírito Santo, Brazil. At 29, I'm passionate about Java development, boxing and spending time with my family. I'm immersing in Java and dedicating myself to practice my skills daily. Tought I'm nothing but an apprentice, I'm focused to growing my knowledge and be a excellent developer!
+<p>I'm Vitor from Espírito Santo, Brazil. At 29, I'm passionate about Java development, boxing and spending time with my family. I'm immersing in Java and dedicating myself to practice my skills daily. Tought I'm nothing but an apprentice, I'm focused to growing my knowledge to be a excellent developer!
 <br>
 <br>
 <br>
@@ -31,5 +31,5 @@
 <br>
 <br>
 <div dir="auto">
-  <p align="left" dir="auto">I'm a Technologist in Systems Analysis and Development and postgraduate in Java Development and Architcture in <a href="https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/">FIAP</a>, working on my portfolio and doing some excercises in Hackerrank.</p>
+  <p align="left" dir="auto">I'm a Technologist in Systems Analysis and Development and postgraduate in Java Development and Architcture, working on my portfolio and doing some excercises in Hackerrank.</p>
 </div>
