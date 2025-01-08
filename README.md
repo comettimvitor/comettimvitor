@@ -25,7 +25,7 @@
 </a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" width="60px" target="_blank" padding_right="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"><img align="left" width="60px" target="_blank" padding_right="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<a href="https://www.docker.com/"><img align="left" width="60px" target="_blank" padding_right="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </a>
 </div>
 <br>
